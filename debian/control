@@ -1,0 +1,18 @@
+Source: yavta
+Section: video
+Priority: optional
+Maintainer: Ricardo Ribalda Delgado <ricardo@ribalda.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.2.1
+Homepage: http://git.ideasonboard.org/yavta.git
+Vcs-Browser: https://github.com/ribalda/yavta
+Vcs-Git: https://github.com/ribalda/yavta.git
+Rules-Requires-Root: no
+
+Package: yavta
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Yet Another V4L2 Test Application
+ Tool to test Video4Linux2 devices with a very simple interface. It supports many
+ of the latest V4L2 capabilities such as multi-plane capture, and many video formats.
+ It also has capabilities to detect timing issues on the frame capture.

@@ -1,0 +1,6 @@
+.debhelper/
+debhelper-build-stamp
+files
+yavta.debhelper.log
+yavta.substvars
+yavta/
