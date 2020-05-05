@@ -2,7 +2,7 @@ Source: yavta
 Section: video
 Priority: optional
 Maintainer: Ricardo Ribalda Delgado <ricardo@ribalda.com>
-Build-Depends: debhelper (>= 12~)
+Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.2.1
 Homepage: http://git.ideasonboard.org/yavta.git
 Vcs-Browser: https://github.com/ribalda/yavta
