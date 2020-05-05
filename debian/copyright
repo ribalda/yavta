@@ -1,6 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: yavta
 Source: http://git.ideasonboard.org/yavta.git
+Upstream-Contact: http://vger.kernel.org/vger-lists.html#linux-media
 
 Files: *
 Copyright: 2010-2018 Laurent Pinchart <laurent.pinchart@ideasonboard.com>
@@ -26,4 +27,3 @@ License: GPL-2+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
-
